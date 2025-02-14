@@ -1,4 +1,4 @@
 first,last,website,major,interest,hometown_lat,hometown_lng
-jake,matullo,https://jarimat.github.io/,ESS,ecology,39.5186_N,104.7614_W
+jake,matullo,https://jarimat.github.io/,ESS,ecology,39.5186_N,-104.7614_W
 read::read_csv()
   
